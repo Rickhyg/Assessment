@@ -1,0 +1,30 @@
+---
+---
+
+<head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+</head>
+
+<body>
+
+    <h2>Hot-pot Gallery</h2>
+<hr>
+    <div class="container">
+        <nav>
+<a href="{{ site.baseurl }}/">Gallery index</a>
+&nbsp;&nbsp;&nbsp;
+<a href="{{ site.baseurl }}/history">History</a>
+&nbsp;&nbsp;&nbsp;
+<a href="{{ site.baseurl }}/ingredients">Common ingredients</a>
+&nbsp;&nbsp;&nbsp;
+<a href="{{ site.baseurl }}/regional variations">Regional variations</a>
+&nbsp;&nbsp;&nbsp;
+<a href="{{ site.baseurl }}/about">About</a>
+        </nav>
+    </div>
+<hr>
+    <div class="container">
+        {{ content }}
+    </div>
+</body>
