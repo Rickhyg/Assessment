@@ -1,0 +1,20 @@
+---
+layout: index
+---
+
+<div style="margin: 50px 300px;">
+    {% assign pic = site.data.basic[page.index] %}
+    <div align="center">
+        <img src="{{ pic.image-url }}" style="width: 100%;">
+        <p>
+            {{ pic.name }} by <a href="{{ pic.image-author-page }}">{{ pic.image-author }}</a>
+        </p>
+        <p>
+            <a href="{{ pic.license-url }}">{{ pic.license-name }}</a>
+        </p>
+    </div>
+    <br />
+    <div>
+        {{ content }}
+    </div>
+</div>

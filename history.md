@@ -33,4 +33,4 @@ title: History
 <p>The first restaurant known to have served the dish appeared as late as the 1930s. Fittingly enough it opened in Chongqing, whose own variety of the dish is now flourishing across the globe.</p>
 
 
-<p>Reference: Simone, M.(2018, September 15). What is Chinese hotpot and where does it come from? The questions that boiled over into a national controversy.From <a href="https://www.scmp.com/news/china/society/article/2164254/what-chinese-hotpot-and-where-does-it-come-questions-boiled-over">https://www.scmp.com/news/china/society/article/2164254/what-chinese-hotpot-and-where-does-it-come-questions-boiled-over</a></p>
+<p>Reference: Simone, M.(2018, September 15). What is Chinese hotpot and where does it come from? The questions that boiled over into a national controversy.From<a href="https://www.scmp.com/news/china/society/article/2164254/what-chinese-hotpot-and-where-does-it-come-questions-boiled-over">https://www.scmp.com/news/china/society/article/2164254/what-chinese-hotpot-and-where-does-it-come-questions-boiled-over</a></p>

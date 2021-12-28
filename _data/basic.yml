@@ -1,0 +1,18 @@
+- name: Water
+  license-name: CC BY-SA 3.0
+  license-url: https://creativecommons.org/licenses/by-sa/3.0/deed.en
+  image-author: José Manuel Suárez
+  image-author-page: https://www.flickr.com/photos/josjos/
+  image-url: https://upload.wikimedia.org/wikipedia/commons/5/5e/Water_drop_001.jpg
+- name: Salt
+  license-name: CC BY-SA 4.0
+  license-url: https://creativecommons.org/licenses/by-sa/4.0/deed.en
+  image-author: Lexlex
+  image-author-page: https://commons.wikimedia.org/wiki/User:Lexlex
+  image-url: https://upload.wikimedia.org/wikipedia/commons/0/07/Comparison_of_Table_Salt_with_Kitchen_Salt.png
+- name: Spice
+  license-name: CC BY-SA 3.0
+  license-url: https://creativecommons.org/licenses/by-sa/3.0/deed.en
+  image-author: John Reid
+  image-author-page: https://en.wikipedia.org/wiki/User:John_Reid
+  image-url: https://upload.wikimedia.org/wikipedia/commons/9/9b/Spice-shelf.jpg
